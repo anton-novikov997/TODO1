@@ -1,0 +1,1 @@
+{"version":3,"file":"useTheme.js","sourceRoot":"","sources":["../../src/hooks/useTheme.tsx"],"names":[],"mappings":"AAAA,OAAc,EAAC,UAAU,EAAC,MAAM,OAAO,CAAC;AACxC,OAAO,EAAC,YAAY,EAAC,MAAM,2BAA2B,CAAC;AAEtD,IAAM,QAAQ,GAAG;IACd,IAAM,KAAK,GAAE,UAAU,CAAC,YAAY,CAAC,CAAA;IACrC,OAAO,KAAK,CAAA;AAChB,CAAC,CAAC;AACF,eAAe,QAAQ,CAAA"}
